@@ -60,4 +60,5 @@ Raw data (430 MB) is git-ignored; processed and output CSVs are committed.
 ## Limitations / next steps
 * Region-level, not item-level forecasts; no promotions, prices or SNAP-day regressors.
 * Single-echelon, deterministic LP: no inventory, lead times, minimum-fill or fixed DC costs; the prediction band is empirical.
-* Next: re-run data prep in Alteryx (optional), add a stochastic/robust capacity model, and sensitivity of the expansion decision to the capacity price.
+* Alteryx: [docs/alteryx_guide.md](docs/alteryx_guide.md) specifies the Part 1 prep as an Alteryx workflow with check totals (to be built in Designer).
+* Next: add a stochastic/robust capacity model, and sensitivity of the expansion decision to the capacity price.
