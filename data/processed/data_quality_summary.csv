@@ -1,0 +1,11 @@
+,value
+item_store_series,30490
+days,1941
+date_min,2011-01-29
+date_max,2016-05-22
+missing_values_in_sales,0
+duplicate_ids,0
+negative_sales,0
+pct_zero_item_days,68.0
+store_days_with_zero_total,24
+calendar_gaps,0

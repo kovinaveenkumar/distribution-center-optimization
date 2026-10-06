@@ -1,0 +1,385 @@
+demand_case,scenario,week_start,dc,units_used,capacity,utilization,city,lat,lon
+base,0 As-is (home DC + pro-rata spill),2016-05-21,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-05-21,DC2,82781.13523752737,90000,0.919790391528082,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-05-21,DC3,90095.06169475648,95000,0.9483690704711208,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-05-21,DC4,24650.530269741805,80000,0.3081316283717725,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-05-28,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-05-28,DC2,83986.040131503,90000,0.9331782236833668,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-05-28,DC3,91055.51413503372,95000,0.9584790961582496,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-05-28,DC4,26225.2734117746,80000,0.3278159176471825,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-06-04,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-06-04,DC2,85081.80406436778,90000,0.9453533784929752,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-06-04,DC3,92214.56075302987,95000,0.9706795868739988,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-06-04,DC4,28301.39849036304,80000,0.353767481129538,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-06-11,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-06-11,DC2,85787.35386252736,90000,0.9531928206947484,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-06-11,DC3,93277.7792630373,95000,0.9818713606635504,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-06-11,DC4,30371.465266577485,80000,0.3796433158322185,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-06-18,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-06-18,DC2,86027.0906393784,90000,0.95585656265976,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-06-18,DC3,94019.0207318234,95000,0.9896739024402462,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-06-18,DC4,32042.45308922581,80000,0.4005306636153226,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-06-25,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-06-25,DC2,85906.99085029193,90000,0.9545221205587991,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-06-25,DC3,94336.18936461932,95000,0.9930125196275718,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-06-25,DC4,33073.45350790634,80000,0.4134181688488292,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-07-02,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-07-02,DC2,85641.26805312063,90000,0.9515696450346736,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-07-02,DC3,94252.78818783644,95000,0.9921346125035416,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-07-02,DC4,33462.57089839742,80000,0.4182821362299677,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-07-09,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-07-09,DC2,85462.17939774689,90000,0.9495797710860766,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-07-09,DC3,93894.82303261828,95000,0.9883665582380872,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-07-09,DC4,33404.18449137876,80000,0.4175523061422345,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-07-16,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-07-16,DC2,85525.90285745666,90000,0.9502878095272962,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-07-16,DC3,93457.195007796,95000,0.983759947450484,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-07-16,DC4,33155.62757778937,80000,0.4144453447223671,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-07-23,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-07-23,DC2,85841.62973862594,90000,0.9537958859847326,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-07-23,DC3,93146.05108756988,95000,0.9804847482902092,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-07-23,DC4,32921.97062927225,80000,0.4115246328659031,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-07-30,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-07-30,DC2,86270.05438910892,90000,0.958556159878988,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-07-30,DC3,93106.54103343457,95000,0.9800688529835216,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-07-30,DC4,32808.18554778345,80000,0.4101023193472931,"Atlanta, GA",33.75,-84.39
+base,0 As-is (home DC + pro-rata spill),2016-08-06,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,0 As-is (home DC + pro-rata spill),2016-08-06,DC2,86603.06882190747,90000,0.9622563202434162,"Dallas, TX",32.78,-96.8
+base,0 As-is (home DC + pro-rata spill),2016-08-06,DC3,93373.34805331436,95000,0.982877347929625,"Chicago, IL",41.88,-87.63
+base,0 As-is (home DC + pro-rata spill),2016-08-06,DC4,32826.37441555682,80000,0.4103296801944602,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-05-21,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-05-21,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-05-21,DC3,87910.59035738208,95000,0.925374635340864,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-05-21,DC4,19616.13684464358,80000,0.2452017105580447,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-05-28,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-05-28,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-05-28,DC3,89131.83684570518,95000,0.9382298615337388,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-05-28,DC4,22134.99083260614,80000,0.2766873854075767,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-06-04,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-06-04,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-06-04,DC3,90689.72596452013,95000,0.9546286943633696,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-06-04,DC4,24908.03734324059,80000,0.3113504667905074,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-06-11,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-06-11,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-06-11,DC3,92223.82174494809,95000,0.9707770709994537,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-06-11,DC4,27212.77664719407,80000,0.3401597080899259,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-06-18,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-06-18,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-06-18,DC3,93363.58724519127,95000,0.9827746025809608,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-06-18,DC4,28724.97721523633,80000,0.3590622151904541,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-06-25,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-06-25,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-06-25,DC3,93868.34095410364,95000,0.9880877995168804,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-06-25,DC4,29448.29276871396,80000,0.3681036596089245,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-07-02,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-07-02,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-07-02,DC3,93715.50822365849,95000,0.9864790339332472,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-07-02,DC4,29641.118915696003,80000,0.3705139864462,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-07-09,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-07-09,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-07-09,DC3,93102.5301000649,95000,0.9800266326322622,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-07-09,DC4,29658.65682167902,80000,0.3707332102709877,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-07-16,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-07-16,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-07-16,DC3,92365.22461515995,95000,0.9722655222648416,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-07-16,DC4,29773.500827882075,80000,0.3721687603485259,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-07-23,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-07-23,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-07-23,DC3,91849.57261429827,95000,0.9668376064662976,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-07-23,DC4,30060.078841169772,80000,0.3757509855146221,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-07-30,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-07-30,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-07-30,DC3,91790.1908607771,95000,0.9662125353766012,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-07-30,DC4,30394.590109549812,80000,0.3799323763693726,"Atlanta, GA",33.75,-84.39
+base,1 Optimized - current capacity,2016-08-06,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,1 Optimized - current capacity,2016-08-06,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,1 Optimized - current capacity,2016-08-06,DC3,92241.42136368324,95000,0.970962330144034,"Chicago, IL",41.88,-87.63
+base,1 Optimized - current capacity,2016-08-06,DC4,30561.36992709541,80000,0.3820171240886926,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,DC2,79616.13684464358,90000,0.884623742718262,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,DC3,87910.59035738208,95000,0.925374635340864,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,DC2,82134.99083260614,90000,0.9126110092511792,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,DC3,89131.83684570518,95000,0.9382298615337388,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,DC2,84908.03734324059,90000,0.9434226371471176,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,DC3,90689.72596452013,95000,0.9546286943633696,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,DC2,87212.77664719407,90000,0.9690308516354896,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,DC3,92223.82174494809,95000,0.9707770709994537,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,DC2,88724.97721523633,90000,0.9858330801692924,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,DC3,93363.58724519127,95000,0.9827746025809608,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,DC2,89448.29276871396,90000,0.9938699196523774,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,DC3,93868.34095410364,95000,0.9880877995168804,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,DC2,89641.118915696,90000,0.9960124323966224,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,DC3,93715.50822365849,95000,0.9864790339332472,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,DC2,89658.65682167902,90000,0.9962072980186556,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,DC3,93102.5301000649,95000,0.9800266326322622,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,DC2,89773.50082788208,90000,0.9974833425320232,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,DC3,92365.22461515995,95000,0.9722655222648416,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,DC3,91849.57261429827,95000,0.9668376064662976,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,DC4,60.07884116977221,80000,0.0007509855146221,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,DC3,91790.1908607771,95000,0.9662125353766012,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,DC4,394.590109549812,80000,0.0049323763693726,"Atlanta, GA",33.75,-84.39
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,DC3,92241.42136368324,95000,0.970962330144034,"Chicago, IL",41.88,-87.63
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,DC4,561.3699270954094,80000,0.0070171240886926,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,DC2,109616.13684464358,120000,0.9134678070386965,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,DC3,87910.59035738208,95000,0.925374635340864,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,DC2,112134.99083260614,120000,0.9344582569383844,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,DC3,89131.83684570518,95000,0.9382298615337388,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,DC2,114908.0373432406,120000,0.9575669778603384,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,DC3,90689.72596452013,95000,0.9546286943633696,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,DC2,117212.77664719408,120000,0.9767731387266172,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,DC3,92223.82174494809,95000,0.9707770709994537,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,DC2,118724.97721523631,120000,0.9893748101269694,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,DC3,93363.58724519127,95000,0.9827746025809608,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,DC2,119448.29276871396,120000,0.995402439739283,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,DC3,93868.34095410364,95000,0.9880877995168804,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,DC2,119641.118915696,120000,0.9970093242974668,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,DC3,93715.50822365849,95000,0.9864790339332472,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,DC2,119658.65682167902,120000,0.9971554735139918,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,DC3,93102.5301000649,95000,0.9800266326322622,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,DC2,119773.50082788208,120000,0.9981125068990172,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,DC3,92365.22461515995,95000,0.9722655222648416,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,DC4,0.0,80000,0.0,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,DC3,91849.57261429827,95000,0.9668376064662976,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,DC4,60.07884116977221,80000,0.0007509855146221,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,DC3,91790.1908607771,95000,0.9662125353766012,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,DC4,394.590109549812,80000,0.0049323763693726,"Atlanta, GA",33.75,-84.39
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,DC3,92241.42136368324,95000,0.970962330144034,"Chicago, IL",41.88,-87.63
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,DC4,561.3699270954094,80000,0.0070171240886926,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-05-21,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-05-21,DC2,88661.40826137221,90000,0.9851267584596912,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-05-21,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-05-21,DC4,51574.079686984864,80000,0.6446759960873107,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-05-28,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-05-28,DC2,89329.98992363123,90000,0.9925554435959026,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-05-28,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-05-28,DC4,55135.04802035523,80000,0.6891881002544403,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-06-04,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-06-04,DC2,89819.30251140692,90000,0.9979922501267436,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-06-04,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-06-04,DC4,59564.388247032766,80000,0.7445548530879096,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-06-11,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-06-11,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-06-11,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-06-11,DC4,63765.70933564176,80000,0.797071366695522,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-06-18,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-06-18,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-06-18,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-06-18,DC4,66804.93216359748,80000,0.8350616520449685,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-06-25,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-06-25,DC2,89996.82915580968,90000,0.9999647683978854,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-06-25,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-06-25,DC4,68213.06216152335,80000,0.8526632770190419,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-07-02,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-07-02,DC2,89915.3283774899,90000,0.9990592041943324,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-07-02,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-07-02,DC4,68317.44890385168,80000,0.853968111298146,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-07-09,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-07-09,DC2,89860.50669139216,90000,0.9984500743488018,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-07-09,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-07-09,DC4,67640.13221001392,80000,0.8455016526251741,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-07-16,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-07-16,DC2,89878.27186080752,90000,0.9986474651200836,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-07-16,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-07-16,DC4,66842.5549423676,80000,0.835531936779595,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-07-23,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-07-23,DC2,89980.04151826126,90000,0.999778239091792,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-07-23,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-07-23,DC4,66418.45063869724,80000,0.8302306329837155,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-07-30,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-07-30,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-07-30,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-07-30,DC4,66687.43699618884,80000,0.8335929624523606,"Atlanta, GA",33.75,-84.39
+high,0 As-is (home DC + pro-rata spill),2016-08-06,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,0 As-is (home DC + pro-rata spill),2016-08-06,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,0 As-is (home DC + pro-rata spill),2016-08-06,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,0 As-is (home DC + pro-rata spill),2016-08-06,DC4,67420.82304726726,80000,0.8427602880908407,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-05-21,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-05-21,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-05-21,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-05-21,DC4,50235.48794835709,80000,0.6279435993544635,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-05-28,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-05-28,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-05-28,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-05-28,DC4,54465.03794398646,80000,0.6808129742998308,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-06-04,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-06-04,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-06-04,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-06-04,DC4,59383.69075843968,80000,0.742296134480496,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-06-11,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-06-11,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-06-11,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-06-11,DC4,63765.70933564176,80000,0.797071366695522,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-06-18,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-06-18,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-06-18,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-06-18,DC4,66804.93216359748,80000,0.8350616520449685,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-06-25,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-06-25,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-06-25,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-06-25,DC4,68209.89131733304,80000,0.8526236414666629,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-07-02,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-07-02,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-07-02,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-07-02,DC4,68232.77728134158,80000,0.8529097160167698,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-07-09,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-07-09,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-07-09,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-07-09,DC4,67500.63890140608,80000,0.843757986267576,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-07-16,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-07-16,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-07-16,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-07-16,DC4,66720.8268031751,80000,0.8340103350396888,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-07-23,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-07-23,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-07-23,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-07-23,DC4,66398.4921569585,80000,0.8299811519619812,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-07-30,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-07-30,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-07-30,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-07-30,DC4,66687.43699618884,80000,0.8335929624523606,"Atlanta, GA",33.75,-84.39
+high,1 Optimized - current capacity,2016-08-06,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,1 Optimized - current capacity,2016-08-06,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,1 Optimized - current capacity,2016-08-06,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,1 Optimized - current capacity,2016-08-06,DC4,67420.82304726726,80000,0.8427602880908407,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,DC4,20235.487948357084,80000,0.2529435993544635,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,DC4,24465.037943986463,80000,0.3058129742998308,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,DC4,29383.690758439683,80000,0.367296134480496,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,DC4,33765.70933564176,80000,0.422071366695522,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,DC4,36804.93216359748,80000,0.4600616520449684,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,DC4,38209.89131733304,80000,0.477623641466663,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,DC4,38232.77728134158,80000,0.4779097160167697,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,DC4,37500.63890140608,80000,0.468757986267576,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,DC4,36720.82680317511,80000,0.4590103350396888,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,DC4,36398.4921569585,80000,0.4549811519619812,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,DC4,36687.43699618885,80000,0.4585929624523605,"Atlanta, GA",33.75,-84.39
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,DC1,130000.0,130000,1.0,"Phoenix, AZ",33.45,-112.07
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,DC2,90000.0,90000,1.0,"Dallas, TX",32.78,-96.8
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,DC4,37420.82304726726,80000,0.4677602880908407,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,DC4,20235.487948357084,80000,0.2529435993544635,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,DC4,24465.037943986463,80000,0.3058129742998308,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,DC4,29383.690758439683,80000,0.367296134480496,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,DC4,33765.70933564176,80000,0.422071366695522,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,DC4,36804.93216359748,80000,0.4600616520449684,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,DC4,38209.89131733304,80000,0.477623641466663,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,DC4,38232.77728134158,80000,0.4779097160167697,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,DC4,37500.63890140608,80000,0.468757986267576,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,DC4,36720.82680317511,80000,0.4590103350396888,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,DC4,36398.4921569585,80000,0.4549811519619812,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,DC4,36687.43699618885,80000,0.4585929624523605,"Atlanta, GA",33.75,-84.39
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,DC1,100000.0,100000,1.0,"Phoenix, AZ",33.45,-112.07
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,DC2,120000.0,120000,1.0,"Dallas, TX",32.78,-96.8
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,DC3,95000.0,95000,1.0,"Chicago, IL",41.88,-87.63
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,DC4,37420.82304726726,80000,0.4677602880908407,"Atlanta, GA",33.75,-84.39

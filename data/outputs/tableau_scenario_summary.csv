@@ -1,0 +1,9 @@
+demand_case,scenario,ship,hand,over_cost,over_units,expansion,demand,total,savings_vs_asis,savings_vs_asis_pct,cost_per_unit,gross_saving_vs_opt1,breakeven_$per_unit_cap_wk
+base,0 As-is (home DC + pro-rata spill),1856108.43,2113197.84,0.0,0.0,0.0,3714386.88,3969306.28,0.0,0.0,1.07,-95521.45,
+base,1 Optimized - current capacity,1764040.09,2109744.74,0.0,0.0,0.0,3714386.88,3873784.83,95521.45,2.41,1.04,0.0,
+base,2 Optimized + 30k/wk at DC1 Phoenix,1360297.1,2075188.82,0.0,0.0,144000.0,3714386.88,3579485.92,389820.36,9.82,0.96,438298.91,1.22
+base,3 Optimized + 30k/wk at DC2 Dallas,1629937.1,2093188.82,0.0,0.0,144000.0,3714386.88,3867125.92,102180.36,2.57,1.04,150658.91,0.42
+high,0 As-is (home DC + pro-rata spill),2315070.98,2394623.36,0.0,0.0,0.0,4185825.74,4709694.34,0.0,0.0,1.13,-105463.19,
+high,1 Optimized - current capacity,2209735.7,2394495.45,0.0,0.0,0.0,4185825.74,4604231.15,105463.19,2.24,1.1,0.0,
+high,2 Optimized + 30k/wk at DC1 Phoenix,1794295.7,2358495.45,0.0,0.0,144000.0,4185825.74,4296791.15,412903.19,8.77,1.03,451440.0,1.25
+high,3 Optimized + 30k/wk at DC2 Dallas,2063935.7,2376495.45,0.0,0.0,144000.0,4185825.74,4584431.15,125263.19,2.66,1.1,163800.0,0.46
