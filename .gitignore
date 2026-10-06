@@ -224,3 +224,5 @@ venv/
 data/raw/
 .DS_Store
 .ipynb_checkpoints/
+.Rhistory
+.RData
