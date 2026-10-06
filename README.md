@@ -2,7 +2,7 @@
 
 **Business question:** *Given the next 12 weeks of predicted orders, how should we assign regional demand across distribution centers (DCs) to stay within capacity at the lowest shipping + handling cost — and is it worth adding capacity?*
 
-> **Tableau Public dashboard:** _link goes here after publishing (see [docs/tableau_guide.md](docs/tableau_guide.md))_
+> **Tableau Public dashboard:** [DC Capacity Dashboard](https://public.tableau.com/app/profile/naveen.k7476/viz/DCCapacityDashboard/DCCapacityDashboard) (forecast vs actual by region, DC utilization, scenario cost). Build steps: [docs/tableau_guide.md](docs/tableau_guide.md)
 
 ![Forecast vs actual](assets/04_forecast_vs_actual.png)
 
