@@ -1,0 +1,1441 @@
+demand_case,scenario,week_start,region,dc,units,shipping_cost,handling_cost
+base,0 As-is (home DC + pro-rata spill),2016-05-21,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-05-21,West,DC2,3215.005404888709,3864.436496676228,1768.2529726887901
+base,0 As-is (home DC + pro-rata spill),2016-05-21,West,DC3,2184.471337374405,3562.8727512576543,1419.9063692933632
+base,0 As-is (home DC + pro-rata spill),2016-05-21,West,DC4,24650.530269741805,44198.40077364705,14790.318161845082
+base,0 As-is (home DC + pro-rata spill),2016-05-21,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-21,South,DC2,79566.12983263866,27132.050272929784,43761.371407951265
+base,0 As-is (home DC + pro-rata spill),2016-05-21,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-21,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,DC3,87910.59035738208,19252.419288266676,57141.88373229835
+base,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-21,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-21,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,West,DC2,2932.9343326369967,3525.38706782967,1613.1138829503484
+base,0 As-is (home DC + pro-rata spill),2016-05-28,West,DC3,1923.6772893285402,3137.517658894849,1250.3902380635511
+base,0 As-is (home DC + pro-rata spill),2016-05-28,West,DC4,26225.2734117746,47021.91522731186,15735.16404706476
+base,0 As-is (home DC + pro-rata spill),2016-05-28,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,South,DC2,81053.105798866,27639.109077413308,44579.2081893763
+base,0 As-is (home DC + pro-rata spill),2016-05-28,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,DC3,89131.83684570518,19519.872269209434,57935.69394970837
+base,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,West,DC2,2692.3711466753084,3236.2301183037207,1480.8041306714197
+base,0 As-is (home DC + pro-rata spill),2016-06-04,West,DC3,1524.8347885097637,2487.0055400594247,991.1426125313465
+base,0 As-is (home DC + pro-rata spill),2016-06-04,West,DC4,28301.39849036304,50744.40749322093,16980.839094217823
+base,0 As-is (home DC + pro-rata spill),2016-06-04,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,South,DC2,82389.43291769248,28094.796624933137,45314.18810473087
+base,0 As-is (home DC + pro-rata spill),2016-06-04,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,DC3,90689.72596452013,19861.049986229908,58948.321876938084
+base,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,West,DC2,2578.0377464674016,3098.801371253817,1417.920760557071
+base,0 As-is (home DC + pro-rata spill),2016-06-11,West,DC3,1053.957518089211,1719.004712003503,685.0723867579871
+base,0 As-is (home DC + pro-rata spill),2016-06-11,West,DC4,30371.465266577485,54456.03722297343,18222.87915994649
+base,0 As-is (home DC + pro-rata spill),2016-06-11,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,South,DC2,83209.31611605997,28374.376795576452,45765.12386383299
+base,0 As-is (home DC + pro-rata spill),2016-06-11,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,DC3,92223.82174494809,20197.016962143633,59945.48413421626
+base,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,West,DC2,2654.4677535802816,3190.6702398034986,1459.957264469155
+base,0 As-is (home DC + pro-rata spill),2016-06-18,West,DC3,655.4334866321178,1069.0120166969841,426.0317663108766
+base,0 As-is (home DC + pro-rata spill),2016-06-18,West,DC4,32042.45308922581,57452.11838898188,19225.471853535488
+base,0 As-is (home DC + pro-rata spill),2016-06-18,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,South,DC2,83372.62288579812,28430.06440405716,45854.94258718897
+base,0 As-is (home DC + pro-rata spill),2016-06-18,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,DC3,93363.58724519127,20446.62560669689,60686.33170937433
+base,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,West,DC2,2884.7200132895523,3467.433455974042,1586.596007309254
+base,0 As-is (home DC + pro-rata spill),2016-06-25,West,DC3,467.84841051568725,763.0607575510859,304.10146683519673
+base,0 As-is (home DC + pro-rata spill),2016-06-25,West,DC4,33073.45350790634,59300.70213967607,19844.072104743806
+base,0 As-is (home DC + pro-rata spill),2016-06-25,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,South,DC2,83022.27083700238,28310.594355417812,45662.24896035131
+base,0 As-is (home DC + pro-rata spill),2016-06-25,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,DC3,93868.34095410364,20557.166668948696,61014.42162016737
+base,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,West,DC2,3134.130518493509,3767.2248832291975,1723.77178517143
+base,0 As-is (home DC + pro-rata spill),2016-07-02,West,DC3,537.2799641779544,876.3036215742436,349.2319767156704
+base,0 As-is (home DC + pro-rata spill),2016-07-02,West,DC4,33462.57089839742,59998.389620826565,20077.54253903845
+base,0 As-is (home DC + pro-rata spill),2016-07-02,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,South,DC2,82507.13753462712,28134.933899307853,45378.925644044924
+base,0 As-is (home DC + pro-rata spill),2016-07-02,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,DC3,93715.50822365849,20523.69630098121,60915.08034537802
+base,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,West,DC2,3253.128954431462,3910.261003226617,1789.220924937304
+base,0 As-is (home DC + pro-rata spill),2016-07-09,West,DC3,792.2929325533737,1292.2297729945526,514.990406159693
+base,0 As-is (home DC + pro-rata spill),2016-07-09,West,DC4,33404.18449137876,59893.70279304211,20042.510694827255
+base,0 As-is (home DC + pro-rata spill),2016-07-09,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,South,DC2,82209.05044331543,28033.286201170562,45214.97774382349
+base,0 As-is (home DC + pro-rata spill),2016-07-09,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,DC3,93102.5301000649,20389.454091914213,60516.64456504219
+base,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,West,DC2,3166.687713691822,3806.35863185757,1741.6782425305023
+base,0 As-is (home DC + pro-rata spill),2016-07-16,West,DC3,1091.9703926360403,1781.0037103893817,709.7807552134262
+base,0 As-is (home DC + pro-rata spill),2016-07-16,West,DC4,33155.62757778937,59448.040246976336,19893.37654667362
+base,0 As-is (home DC + pro-rata spill),2016-07-16,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,South,DC2,82359.21514376484,28084.492364023812,45297.568329070666
+base,0 As-is (home DC + pro-rata spill),2016-07-16,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,DC3,92365.22461515995,20227.98419072003,60037.39599985397
+base,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,West,DC2,2907.975236867478,3495.3862347147087,1599.3863802771132
+base,0 As-is (home DC + pro-rata spill),2016-07-23,West,DC3,1296.4784732715893,2114.556389905962,842.711007626533
+base,0 As-is (home DC + pro-rata spill),2016-07-23,West,DC4,32921.97062927225,59029.093338285136,19753.18237756335
+base,0 As-is (home DC + pro-rata spill),2016-07-23,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,South,DC2,82933.65450175846,28280.376185099638,45613.50997596716
+base,0 As-is (home DC + pro-rata spill),2016-07-23,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,DC3,91849.57261429827,20115.05640253132,59702.22219929388
+base,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,West,DC2,2593.092660362994,3116.8973777563187,1426.2009631996468
+base,0 As-is (home DC + pro-rata spill),2016-07-30,West,DC3,1316.3501726574482,2146.967131604298,855.6276122273414
+base,0 As-is (home DC + pro-rata spill),2016-07-30,West,DC4,32808.18554778345,58825.076687175715,19684.911328670067
+base,0 As-is (home DC + pro-rata spill),2016-07-30,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,South,DC2,83676.96172874593,28533.843949502363,46022.32895081026
+base,0 As-is (home DC + pro-rata spill),2016-07-30,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,DC3,91790.1908607771,20102.051798510187,59663.62405950512
+base,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,West,DC1,100000.0,45300.0,50000.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,West,DC2,2363.798273599674,2841.285524866808,1300.0890504798208
+base,0 As-is (home DC + pro-rata spill),2016-08-06,West,DC3,1131.9266896311253,1846.1724307883653,735.7523482602315
+base,0 As-is (home DC + pro-rata spill),2016-08-06,West,DC4,32826.37441555682,58857.68932709338,19695.824649334092
+base,0 As-is (home DC + pro-rata spill),2016-08-06,South,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,South,DC2,84239.27054830779,28725.59125697296,46331.598801569286
+base,0 As-is (home DC + pro-rata spill),2016-08-06,South,DC3,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,South,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,DC1,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,DC2,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,DC3,92241.42136368324,20200.87127864663,59956.92388639411
+base,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,DC4,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,West,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,South,3PL overflow,0.0,0.0,0.0
+base,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-05-21,West,DC2,30050.00701200492,36120.108428429914,16527.503856602707
+base,1 Optimized - current capacity,2016-05-21,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,South,DC2,59949.99298799508,20442.947608906325,32972.49614339729
+base,1 Optimized - current capacity,2016-05-21,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,South,DC4,19616.13684464358,14633.63808610411,11769.682106786147
+base,1 Optimized - current capacity,2016-05-21,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,Midwest,DC3,87910.59035738208,19252.419288266676,57141.88373229835
+base,1 Optimized - current capacity,2016-05-21,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-21,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-05-28,West,DC2,31081.885033740138,37360.425810555644,17095.036768557078
+base,1 Optimized - current capacity,2016-05-28,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,South,DC2,58918.11496625986,20091.077203494613,32404.963231442925
+base,1 Optimized - current capacity,2016-05-28,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,South,DC4,22134.99083260614,16512.70316112418,13280.994499563685
+base,1 Optimized - current capacity,2016-05-28,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,Midwest,DC3,89131.83684570518,19519.872269209434,57935.69394970837
+base,1 Optimized - current capacity,2016-05-28,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-05-28,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-06-04,West,DC2,32518.60442554811,39087.362519508824,17885.23243405146
+base,1 Optimized - current capacity,2016-06-04,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,South,DC2,57481.39557445189,19601.155890888094,31614.767565948543
+base,1 Optimized - current capacity,2016-06-04,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,South,DC4,24908.03734324059,18581.39585805748,14944.822405944353
+base,1 Optimized - current capacity,2016-06-04,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,Midwest,DC3,90689.72596452013,19861.049986229908,58948.321876938084
+base,1 Optimized - current capacity,2016-06-04,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-04,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-06-11,West,DC2,34003.4605311341,40872.15955842318,18701.903292123756
+base,1 Optimized - current capacity,2016-06-11,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,South,DC2,55996.5394688659,19094.819958883272,30798.096707876248
+base,1 Optimized - current capacity,2016-06-11,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,South,DC4,27212.77664719407,20300.731378806777,16327.665988316441
+base,1 Optimized - current capacity,2016-06-11,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,Midwest,DC3,92223.82174494809,20197.016962143633,59945.48413421626
+base,1 Optimized - current capacity,2016-06-11,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-11,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-06-18,West,DC2,35352.35432943821,42493.52990398473,19443.794881191017
+base,1 Optimized - current capacity,2016-06-18,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,South,DC2,54647.64567056179,18634.847173661572,30056.205118808986
+base,1 Optimized - current capacity,2016-06-18,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,South,DC4,28724.97721523633,21428.8330025663,17234.986329141797
+base,1 Optimized - current capacity,2016-06-18,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,Midwest,DC3,93363.58724519127,20446.62560669689,60686.33170937433
+base,1 Optimized - current capacity,2016-06-18,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-18,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-06-25,West,DC2,36426.021931711584,43784.07836191732,20034.31206244137
+base,1 Optimized - current capacity,2016-06-25,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,South,DC2,53573.978068288416,18268.72652128635,29465.687937558632
+base,1 Optimized - current capacity,2016-06-25,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,South,DC4,29448.29276871396,21968.426405460614,17668.975661228375
+base,1 Optimized - current capacity,2016-06-25,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,Midwest,DC3,93868.34095410364,20557.166668948696,61014.42162016737
+base,1 Optimized - current capacity,2016-06-25,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-06-25,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-07-02,West,DC2,37133.98138106888,44635.04562004479,20423.689759587884
+base,1 Optimized - current capacity,2016-07-02,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,South,DC2,52866.01861893112,18027.31234905551,29076.31024041212
+base,1 Optimized - current capacity,2016-07-02,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,South,DC4,29641.118915696003,22112.274711109218,17784.6713494176
+base,1 Optimized - current capacity,2016-07-02,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,Midwest,DC3,93715.50822365849,20523.69630098121,60915.08034537802
+base,1 Optimized - current capacity,2016-07-02,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-02,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-07-09,West,DC2,37449.60637836359,45014.42686679304,20597.283508099976
+base,1 Optimized - current capacity,2016-07-09,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,South,DC2,52550.39362163641,17919.684224978017,28902.716491900028
+base,1 Optimized - current capacity,2016-07-09,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,South,DC4,29658.65682167902,22125.357988972548,17795.19409300741
+base,1 Optimized - current capacity,2016-07-09,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,Midwest,DC3,93102.5301000649,20389.454091914213,60516.64456504219
+base,1 Optimized - current capacity,2016-07-09,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-09,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-07-16,West,DC2,37414.28568411723,44971.971392308915,20577.85712626448
+base,1 Optimized - current capacity,2016-07-16,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,South,DC2,52585.71431588277,17931.728581716026,28922.142873735524
+base,1 Optimized - current capacity,2016-07-16,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,South,DC4,29773.500827882075,22211.031617600027,17864.100496729243
+base,1 Optimized - current capacity,2016-07-16,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,Midwest,DC3,92365.22461515995,20227.98419072003,60037.39599985397
+base,1 Optimized - current capacity,2016-07-16,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-16,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-07-23,West,DC2,37126.424339411315,44625.9620559724,20419.533386676223
+base,1 Optimized - current capacity,2016-07-23,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,South,DC2,52873.575660588685,18029.889300260744,29080.46661332378
+base,1 Optimized - current capacity,2016-07-23,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,South,DC4,30060.078841169772,22424.818815512648,18036.047304701864
+base,1 Optimized - current capacity,2016-07-23,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,Midwest,DC3,91849.57261429827,20115.05640253132,59702.22219929388
+base,1 Optimized - current capacity,2016-07-23,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-23,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-07-30,West,DC2,36717.628380803886,44134.58931372627,20194.69560944214
+base,1 Optimized - current capacity,2016-07-30,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,South,DC2,53282.371619196114,18169.288722145877,29305.304390557863
+base,1 Optimized - current capacity,2016-07-30,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,South,DC4,30394.590109549812,22674.36422172416,18236.754065729885
+base,1 Optimized - current capacity,2016-07-30,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,Midwest,DC3,91790.1908607771,20102.051798510187,59663.62405950512
+base,1 Optimized - current capacity,2016-07-30,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-07-30,Midwest,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,West,DC1,100000.0,45300.0,50000.0
+base,1 Optimized - current capacity,2016-08-06,West,DC2,36322.09937878762,43659.16345330272,19977.154658333195
+base,1 Optimized - current capacity,2016-08-06,West,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,West,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,South,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,South,DC2,53677.90062121238,18304.164111833423,29522.84534166681
+base,1 Optimized - current capacity,2016-08-06,South,DC3,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,South,DC4,30561.36992709541,22798.781965613176,18336.821956257245
+base,1 Optimized - current capacity,2016-08-06,Midwest,DC1,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,Midwest,DC2,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,Midwest,DC3,92241.42136368324,20200.87127864663,59956.92388639411
+base,1 Optimized - current capacity,2016-08-06,Midwest,DC4,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,West,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,South,3PL overflow,0.0,0.0,0.0
+base,1 Optimized - current capacity,2016-08-06,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,DC2,50.0070120049204,60.10842842991432,27.50385660270622
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,DC2,79566.12983263866,27132.050272929784,43761.371407951265
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,DC3,87910.59035738208,19252.419288266676,57141.88373229835
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,DC2,1081.8850337401382,1300.425810555646,595.036768557076
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,DC2,81053.105798866,27639.109077413308,44579.2081893763
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,DC3,89131.83684570518,19519.872269209434,57935.69394970837
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,DC2,2518.60442554811,3027.3625195088284,1385.2324340514606
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,DC2,82389.43291769248,28094.796624933137,45314.18810473087
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,DC3,90689.72596452013,19861.049986229908,58948.321876938084
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,DC2,4003.4605311341,4812.159558423188,2201.9032921237554
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,DC2,83209.31611605997,28374.376795576452,45765.12386383299
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,DC3,92223.82174494809,20197.016962143633,59945.48413421626
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,DC2,5352.354329438211,6433.529903984729,2943.794881191016
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,DC2,83372.62288579812,28430.06440405716,45854.94258718897
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,DC3,93363.58724519127,20446.62560669689,60686.33170937433
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,DC2,6426.021931711584,7724.078361917324,3534.312062441372
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,DC2,83022.27083700238,28310.594355417812,45662.24896035131
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,DC3,93868.34095410364,20557.166668948696,61014.42162016737
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,DC2,7133.981381068879,8575.045620044793,3923.689759587884
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,DC2,82507.13753462712,28134.933899307853,45378.925644044924
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,DC3,93715.50822365849,20523.69630098121,60915.08034537802
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,DC2,7449.606378363591,8954.426866793036,4097.283508099976
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,DC2,82209.05044331543,28033.286201170562,45214.97774382349
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,DC3,93102.5301000649,20389.454091914213,60516.64456504219
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,DC2,7414.285684117232,8911.971392308913,4077.857126264478
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,DC2,82359.21514376484,28084.492364023812,45297.568329070666
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,DC3,92365.22461515995,20227.98419072003,60037.39599985397
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,DC2,7126.424339411315,8565.962055972399,3919.5333866762235
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,DC2,82873.57566058869,28259.889300260744,45580.466613323784
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,DC4,60.078841169772204,44.81881551265006,36.04730470186332
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,DC3,91849.57261429827,20115.05640253132,59702.22219929388
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,DC2,6717.628380803886,8074.589313726271,3694.6956094421375
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,DC2,83282.37161919611,28399.288722145877,45805.30439055787
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,DC4,394.59010954981204,294.3642217241598,236.7540657298872
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,DC3,91790.1908607771,20102.051798510187,59663.62405950512
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,DC1,130000.0,58890.0,65000.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,DC2,6322.099378787621,7599.163453302721,3477.154658333192
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,DC2,83677.90062121238,28534.164111833423,46022.84534166681
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,DC3,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,DC4,561.3699270954094,418.7819656131754,336.82195625724563
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,DC1,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,DC2,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,DC3,92241.42136368324,20200.87127864663,59956.92388639411
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,DC4,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,3PL overflow,0.0,0.0,0.0
+base,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,DC2,30050.00701200492,36120.108428429914,16527.503856602707
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,DC2,79566.12983263866,27132.050272929784,43761.371407951265
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,DC3,87910.59035738208,19252.419288266676,57141.88373229835
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,DC2,31081.885033740138,37360.425810555644,17095.036768557078
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,DC2,81053.105798866,27639.109077413308,44579.2081893763
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,DC3,89131.83684570518,19519.872269209434,57935.69394970837
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,DC2,32518.60442554811,39087.362519508824,17885.23243405146
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,DC2,82389.43291769248,28094.796624933137,45314.18810473087
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,DC3,90689.72596452013,19861.049986229908,58948.321876938084
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,DC2,34003.4605311341,40872.15955842318,18701.903292123756
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,DC2,83209.31611605997,28374.376795576452,45765.12386383299
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,DC3,92223.82174494809,20197.016962143633,59945.48413421626
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,DC2,35352.35432943821,42493.52990398473,19443.794881191017
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,DC2,83372.62288579812,28430.06440405716,45854.94258718897
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,DC3,93363.58724519127,20446.62560669689,60686.33170937433
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,DC2,36426.021931711584,43784.07836191732,20034.31206244137
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,DC2,83022.27083700238,28310.594355417812,45662.24896035131
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,DC3,93868.34095410364,20557.166668948696,61014.42162016737
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,DC2,37133.98138106888,44635.04562004479,20423.689759587884
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,DC2,82507.13753462712,28134.933899307853,45378.925644044924
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,DC3,93715.50822365849,20523.69630098121,60915.08034537802
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,DC2,37449.60637836359,45014.42686679304,20597.283508099976
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,DC2,82209.05044331543,28033.286201170562,45214.97774382349
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,DC3,93102.5301000649,20389.454091914213,60516.64456504219
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,DC2,37414.28568411723,44971.971392308915,20577.85712626448
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,DC2,82359.21514376484,28084.492364023812,45297.568329070666
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,DC3,92365.22461515995,20227.98419072003,60037.39599985397
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,DC2,37126.424339411315,44625.9620559724,20419.533386676223
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,DC2,82873.57566058869,28259.889300260744,45580.466613323784
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,DC4,60.078841169772204,44.81881551265006,36.04730470186332
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,DC3,91849.57261429827,20115.05640253132,59702.22219929388
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,DC2,36717.628380803886,44134.58931372627,20194.69560944214
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,DC2,83282.37161919611,28399.288722145877,45805.30439055787
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,DC4,394.59010954981204,294.3642217241598,236.7540657298872
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,DC3,91790.1908607771,20102.051798510187,59663.62405950512
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,DC1,100000.0,45300.0,50000.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,DC2,36322.09937878762,43659.16345330272,19977.154658333195
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,DC2,83677.90062121238,28534.164111833423,46022.84534166681
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,DC3,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,DC4,561.3699270954094,418.7819656131754,336.82195625724563
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,DC1,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,DC2,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,DC3,92241.42136368324,20200.87127864663,59956.92388639411
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,DC4,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,3PL overflow,0.0,0.0,0.0
+base,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,West,DC2,1852.4945686246338,2226.69847148681,1018.8720127435487
+high,0 As-is (home DC + pro-rata spill),2016-05-21,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,West,DC4,39339.00192899657,70534.83045869085,23603.40115739794
+high,0 As-is (home DC + pro-rata spill),2016-05-21,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,South,DC2,86232.75735979632,29405.370259690546,47428.01654788798
+high,0 As-is (home DC + pro-rata spill),2016-05-21,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,South,DC4,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,DC2,576.1563329512642,506.44141666416124,316.88598312319533
+high,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,DC4,12235.077757988294,8797.020907993583,7341.046654792976
+high,0 As-is (home DC + pro-rata spill),2016-05-21,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-21,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,West,DC2,1110.2157284769476,1334.4793056292908,610.6186506623212
+high,0 As-is (home DC + pro-rata spill),2016-05-28,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,West,DC4,41201.56061717494,73874.39818659466,24720.936370304964
+high,0 As-is (home DC + pro-rata spill),2016-05-28,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,South,DC2,87844.32295894316,29954.91412899962,48314.37762741874
+high,0 As-is (home DC + pro-rata spill),2016-05-28,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,South,DC4,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,DC2,375.4512362111309,330.02163662958407,206.498179916122
+high,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,DC4,13933.487403180288,10018.177442886627,8360.092441908173
+high,0 As-is (home DC + pro-rata spill),2016-05-28,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-05-28,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,West,DC2,384.52490945577273,462.1989411658388,211.48870020067503
+high,0 As-is (home DC + pro-rata spill),2016-06-04,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,West,DC4,43487.055742533405,77972.2909463624,26092.233445520043
+high,0 As-is (home DC + pro-rata spill),2016-06-04,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,South,DC2,89292.61725745267,30448.78248479136,49110.939491598976
+high,0 As-is (home DC + pro-rata spill),2016-06-04,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,South,DC4,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,DC2,142.16034449847578,124.95894281416021,78.18818947416169
+high,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,DC4,16077.332504499358,11559.602070735038,9646.399502699614
+high,0 As-is (home DC + pro-rata spill),2016-06-04,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-04,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,West,DC2,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,West,DC4,45483.64558338103,81552.17653100219,27290.18735002862
+high,0 As-is (home DC + pro-rata spill),2016-06-11,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,South,DC2,90000.0,30690.000000000004,49500.00000000001
+high,0 As-is (home DC + pro-rata spill),2016-06-11,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,South,DC4,181.19621758196445,135.17237831614548,108.71773054917867
+high,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,DC2,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,DC4,18100.867534678764,13014.523757434032,10860.520520807258
+high,0 As-is (home DC + pro-rata spill),2016-06-11,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-11,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,West,DC2,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,West,DC4,46948.10020645027,84177.94367016533,28168.86012387016
+high,0 As-is (home DC + pro-rata spill),2016-06-18,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,South,DC2,90000.0,30690.000000000004,49500.00000000001
+high,0 As-is (home DC + pro-rata spill),2016-06-18,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,South,DC4,358.1860131100839,267.20676578012257,214.91160786605033
+high,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,DC2,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,DC4,19498.645944037125,14019.526433762692,11699.187566422275
+high,0 As-is (home DC + pro-rata spill),2016-06-18,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-18,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,West,DC2,12.939762310724667,15.553594297491049,7.116869270898568
+high,0 As-is (home DC + pro-rata spill),2016-06-25,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,West,DC4,48100.81001993692,86244.7523657469,28860.48601196215
+high,0 As-is (home DC + pro-rata spill),2016-06-25,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,South,DC2,89978.47892822535,30682.661314524845,49488.16341052394
+high,0 As-is (home DC + pro-rata spill),2016-06-25,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,South,DC4,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,DC2,5.410465273612308,4.755798975505219,2.97575590048677
+high,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,DC4,20112.252141586436,14460.709289800647,12067.351284951861
+high,0 As-is (home DC + pro-rata spill),2016-06-25,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-06-25,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,West,DC2,351.73540017179795,422.78595100650114,193.4544700944889
+high,0 As-is (home DC + pro-rata spill),2016-07-02,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,West,DC4,48530.62529114841,87015.4111470291,29118.375174689045
+high,0 As-is (home DC + pro-rata spill),2016-07-02,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,South,DC2,89420.18402101907,30492.282751167506,49181.10121156049
+high,0 As-is (home DC + pro-rata spill),2016-07-02,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,South,DC4,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,DC2,143.40895629903133,126.05647258684854,78.87492596446724
+high,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,DC4,19786.82361270327,14226.72617753365,11872.09416762196
+high,0 As-is (home DC + pro-rata spill),2016-07-02,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-02,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,West,DC2,549.3530128799056,660.3223214816464,302.1441570839481
+high,0 As-is (home DC + pro-rata spill),2016-07-09,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,West,DC4,48675.67252501723,87275.48083735589,29205.403515010337
+high,0 As-is (home DC + pro-rata spill),2016-07-09,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,South,DC2,89097.12103088447,30382.11827153161,49003.41656698647
+high,0 As-is (home DC + pro-rata spill),2016-07-09,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,South,DC4,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,DC2,214.03264762778446,188.13469726482253,117.71795619528146
+high,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,DC4,18964.459684996695,13635.446513512623,11378.675810998016
+high,0 As-is (home DC + pro-rata spill),2016-07-09,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-09,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,West,DC2,450.88672357325686,541.9658417350547,247.9876979652913
+high,0 As-is (home DC + pro-rata spill),2016-07-16,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,West,DC4,48735.79216757962,87383.27535647024,29241.47530054777
+high,0 As-is (home DC + pro-rata spill),2016-07-16,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,South,DC2,89259.86761922676,30437.61485815633,49092.92719057472
+high,0 As-is (home DC + pro-rata spill),2016-07-16,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,South,DC4,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,DC2,167.51751800750142,147.24789832859375,92.13463490412579
+high,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,DC4,18106.762774787974,13018.762435072553,10864.057664872784
+high,0 As-is (home DC + pro-rata spill),2016-07-16,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-16,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,West,DC2,71.7166042106772,86.203358261234,39.444132315872466
+high,0 As-is (home DC + pro-rata spill),2016-07-23,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,West,DC4,48802.439627569365,87502.77425223187,29281.46377654162
+high,0 As-is (home DC + pro-rata spill),2016-07-23,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,South,DC2,89882.43767359505,30649.911246695916,49435.34072047728
+high,0 As-is (home DC + pro-rata spill),2016-07-23,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,South,DC4,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,DC2,25.88724045554259,22.754884360421936,14.237982250548425
+high,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,DC4,17616.011011127866,12665.911917000936,10569.60660667672
+high,0 As-is (home DC + pro-rata spill),2016-07-23,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-23,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,West,DC2,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,West,DC4,48430.338392134465,86835.59673709709,29058.20303528068
+high,0 As-is (home DC + pro-rata spill),2016-07-30,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,South,DC2,90000.0,30690.000000000004,49500.00000000001
+high,0 As-is (home DC + pro-rata spill),2016-07-30,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,South,DC4,688.0245719828235,513.2663306991864,412.8147431896941
+high,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,DC2,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,DC4,17569.074032071556,12632.164229059448,10541.444419242933
+high,0 As-is (home DC + pro-rata spill),2016-07-30,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-07-30,Midwest,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,West,DC1,100000.0,45300.0,50000.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,West,DC2,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,West,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,West,DC4,48000.924100001954,86065.6569113035,28800.55446000117
+high,0 As-is (home DC + pro-rata spill),2016-08-06,South,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,South,DC2,90000.0,30690.000000000004,49500.00000000001
+high,0 As-is (home DC + pro-rata spill),2016-08-06,South,DC3,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,South,DC4,1297.4477034150623,967.8959867476365,778.4686220490373
+high,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,DC1,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,DC2,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,DC3,95000.0,20805.0,61750.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,DC4,18122.451243850242,13030.042444328325,10873.470746310146
+high,0 As-is (home DC + pro-rata spill),2016-08-06,West,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,South,3PL overflow,0.0,0.0,0.0
+high,0 As-is (home DC + pro-rata spill),2016-08-06,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-21,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-05-21,West,DC2,41191.49649762121,49512.178790140686,22655.323073691667
+high,1 Optimized - current capacity,2016-05-21,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-21,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-21,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-21,South,DC2,48808.50350237879,16643.69969431117,26844.676926308337
+high,1 Optimized - current capacity,2016-05-21,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-21,South,DC4,37424.25385741753,27918.493377633476,22454.552314450517
+high,1 Optimized - current capacity,2016-05-21,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-21,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-21,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-05-21,Midwest,DC4,12811.234090939557,9211.277311385542,7686.740454563734
+high,1 Optimized - current capacity,2016-05-21,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-21,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-21,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-28,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-05-28,West,DC2,42311.77634565189,50858.755167473566,23271.476990108542
+high,1 Optimized - current capacity,2016-05-28,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-28,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-28,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-28,South,DC2,47688.22365434811,16261.684266132708,26228.523009891465
+high,1 Optimized - current capacity,2016-05-28,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-28,South,DC4,40156.099304595045,29956.450081227904,24093.659582757027
+high,1 Optimized - current capacity,2016-05-28,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-28,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-28,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-05-28,Midwest,DC4,14308.938639391417,10288.126881722428,8585.36318363485
+high,1 Optimized - current capacity,2016-05-28,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-28,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-05-28,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-04,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-06-04,West,DC2,43871.58065198918,52733.63994369099,24129.36935859405
+high,1 Optimized - current capacity,2016-06-04,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-04,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-04,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-04,South,DC2,46128.41934801082,15729.790997671691,25370.630641405955
+high,1 Optimized - current capacity,2016-06-04,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-04,South,DC4,43164.19790944185,32200.49164044362,25898.518745665107
+high,1 Optimized - current capacity,2016-06-04,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-04,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-04,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-06-04,Midwest,DC4,16219.492848997834,11661.815358429441,9731.6957093987
+high,1 Optimized - current capacity,2016-06-04,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-04,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-04,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-11,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-06-11,West,DC2,45483.64558338103,54671.341991224,25016.00507085957
+high,1 Optimized - current capacity,2016-06-11,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-11,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-11,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-11,South,DC2,44516.35441661897,15180.07685606707,24483.994929140434
+high,1 Optimized - current capacity,2016-06-11,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-11,South,DC4,45664.841800963,34065.97198351839,27398.9050805778
+high,1 Optimized - current capacity,2016-06-11,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-11,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-11,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-06-11,Midwest,DC4,18100.867534678764,13014.523757434032,10860.520520807258
+high,1 Optimized - current capacity,2016-06-11,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-11,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-11,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-18,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-06-18,West,DC2,46948.10020645027,56431.61644815322,25821.45511354765
+high,1 Optimized - current capacity,2016-06-18,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-18,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-18,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-18,South,DC2,43051.89979354973,14680.69782960046,23678.544886452353
+high,1 Optimized - current capacity,2016-06-18,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-18,South,DC4,47306.28621956035,35290.48951979202,28383.77173173621
+high,1 Optimized - current capacity,2016-06-18,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-18,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-18,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-06-18,Midwest,DC4,19498.645944037125,14019.526433762692,11699.187566422275
+high,1 Optimized - current capacity,2016-06-18,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-18,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-18,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-25,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-06-25,West,DC2,48113.74978224764,57832.727238261665,26462.562380236206
+high,1 Optimized - current capacity,2016-06-25,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-25,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-25,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-25,South,DC2,41886.25021775236,14283.211324253554,23037.437619763798
+high,1 Optimized - current capacity,2016-06-25,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-25,South,DC4,48092.22871047299,35876.80261801285,28855.337226283795
+high,1 Optimized - current capacity,2016-06-25,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-25,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-25,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-06-25,Midwest,DC4,20117.662606860045,14464.599414332371,12070.597564116028
+high,1 Optimized - current capacity,2016-06-25,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-25,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-06-25,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-02,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-07-02,West,DC2,48882.36069132021,58756.597550966886,26885.29838022612
+high,1 Optimized - current capacity,2016-07-02,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-02,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-02,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-02,South,DC2,41117.63930867979,14021.11500425981,22614.70161977389
+high,1 Optimized - current capacity,2016-07-02,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-02,South,DC4,48302.54471233928,36033.698355405104,28981.526827403566
+high,1 Optimized - current capacity,2016-07-02,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-02,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-02,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-07-02,Midwest,DC4,19930.2325690023,14329.837217112652,11958.139541401379
+high,1 Optimized - current capacity,2016-07-02,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-02,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-02,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-09,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-07-09,West,DC2,49225.025537897134,59168.48069655235,27073.764045843425
+high,1 Optimized - current capacity,2016-07-09,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-09,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-09,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-09,South,DC2,40774.974462102866,13904.266291577078,22426.23595415658
+high,1 Optimized - current capacity,2016-07-09,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-09,South,DC4,48322.14656878161,36048.32134031108,28993.287941268965
+high,1 Optimized - current capacity,2016-07-09,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-09,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-09,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-07-09,Midwest,DC4,19178.492332624475,13789.335987156997,11507.095399574684
+high,1 Optimized - current capacity,2016-07-09,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-09,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-09,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-16,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-07-16,West,DC2,49186.67889115287,59122.38802716575,27052.67339013408
+high,1 Optimized - current capacity,2016-07-16,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-16,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-16,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-16,South,DC2,40813.32110884713,13917.342498116872,22447.326609865922
+high,1 Optimized - current capacity,2016-07-16,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-16,South,DC4,48446.54651037963,36141.123696743205,29067.92790622778
+high,1 Optimized - current capacity,2016-07-16,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-16,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-16,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-07-16,Midwest,DC4,18274.280292795476,13139.207530519947,10964.568175677285
+high,1 Optimized - current capacity,2016-07-16,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-16,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-16,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-23,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-07-23,West,DC2,48874.15623178004,58746.73579059961,26880.785927479024
+high,1 Optimized - current capacity,2016-07-23,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-23,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-23,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-23,South,DC2,41125.84376821996,14023.912724963007,22619.21407252098
+high,1 Optimized - current capacity,2016-07-23,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-23,South,DC4,48756.59390537509,36372.419053409816,29253.956343225054
+high,1 Optimized - current capacity,2016-07-23,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-23,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-23,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-07-23,Midwest,DC4,17641.898251583407,12684.52484288847,10585.138950950044
+high,1 Optimized - current capacity,2016-07-23,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-23,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-23,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-30,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-07-30,West,DC2,48430.338392134465,58213.266747345624,26636.686115673958
+high,1 Optimized - current capacity,2016-07-30,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-30,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-30,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-30,South,DC2,41569.661607865535,14175.254608282148,22863.313884326046
+high,1 Optimized - current capacity,2016-07-30,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-30,South,DC4,49118.36296411729,36642.29877123149,29471.017778470374
+high,1 Optimized - current capacity,2016-07-30,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-30,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-30,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-07-30,Midwest,DC4,17569.074032071556,12632.164229059448,10541.444419242933
+high,1 Optimized - current capacity,2016-07-30,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-30,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-07-30,Midwest,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-08-06,West,DC1,100000.0,45300.0,50000.0
+high,1 Optimized - current capacity,2016-08-06,West,DC2,48000.924100001954,57697.11076820234,26400.508255001077
+high,1 Optimized - current capacity,2016-08-06,West,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-08-06,West,DC4,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-08-06,South,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-08-06,South,DC2,41999.075899998046,14321.684881899335,23099.491744998926
+high,1 Optimized - current capacity,2016-08-06,South,DC3,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-08-06,South,DC4,49298.371803417016,36776.58536534909,29579.023082050207
+high,1 Optimized - current capacity,2016-08-06,Midwest,DC1,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-08-06,Midwest,DC2,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-08-06,Midwest,DC3,95000.0,20805.0,61750.0
+high,1 Optimized - current capacity,2016-08-06,Midwest,DC4,18122.451243850242,13030.042444328325,10873.470746310146
+high,1 Optimized - current capacity,2016-08-06,West,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-08-06,South,3PL overflow,0.0,0.0,0.0
+high,1 Optimized - current capacity,2016-08-06,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,DC2,11191.496497621207,13452.17879014069,6155.323073691664
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,DC2,78808.5035023788,26873.69969431117,43344.67692630834
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,DC4,7424.253857417527,5538.493377633475,4454.552314450516
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,DC4,12811.234090939557,9211.277311385542,7686.740454563734
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-21,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,DC2,12311.776345651888,14798.755167473568,6771.476990108539
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,DC2,77688.22365434811,26491.68426613271,42728.52300989146
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,DC4,10156.099304595045,7576.450081227904,6093.659582757027
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,DC4,14308.938639391417,10288.126881722428,8585.36318363485
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-05-28,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,DC2,13871.580651989178,16673.639943690992,7629.369358594048
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,DC2,76128.41934801082,25959.79099767169,41870.63064140596
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,DC4,13164.19790944185,9820.491640443619,7898.518745665109
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,DC4,16219.492848997834,11661.815358429441,9731.6957093987
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-04,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,DC2,15483.645583381032,18611.341991224,8516.005070859568
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,DC2,74516.35441661897,25410.07685606707,40983.994929140434
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,DC4,15664.841800962997,11685.971983518395,9398.905080577797
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,DC4,18100.867534678764,13014.523757434032,10860.520520807258
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-11,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,DC2,16948.100206450268,20371.61644815322,9321.455113547649
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,DC2,73051.89979354973,24910.69782960046,40178.54488645236
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,DC4,17306.286219560352,12910.489519792023,10383.771731736211
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,DC4,19498.645944037125,14019.526433762692,11699.187566422275
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-18,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,DC2,18113.749782247643,21772.72723826167,9962.562380236204
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,DC2,71886.25021775236,24513.211324253556,39537.4376197638
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,DC4,18092.22871047299,13496.80261801285,10855.337226283795
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,DC4,20117.662606860045,14464.599414332371,12070.597564116028
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-06-25,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,DC2,18882.36069132021,22696.59755096689,10385.298380226115
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,DC2,71117.63930867979,24251.11500425981,39114.701619773885
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,DC4,18302.54471233928,13653.698355405104,10981.526827403568
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,DC4,19930.2325690023,14329.837217112652,11958.139541401379
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-02,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,DC2,19225.025537897134,23108.480696552353,10573.764045843425
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,DC2,70774.97446210287,24134.266291577078,38926.23595415658
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,DC4,18322.14656878161,13668.32134031108,10993.287941268965
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,DC4,19178.492332624475,13789.335987156997,11507.095399574684
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-09,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,DC2,19186.67889115287,23062.38802716575,10552.67339013408
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,DC2,70813.32110884713,24147.342498116872,38947.32660986592
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,DC4,18446.54651037963,13761.123696743205,11067.927906227778
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,DC4,18274.280292795476,13139.207530519947,10964.568175677285
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-16,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,DC2,18874.15623178004,22686.73579059961,10380.785927479024
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,DC2,71125.84376821996,24253.912724963007,39119.21407252098
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,DC4,18756.59390537509,13992.419053409818,11253.956343225054
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,DC4,17641.898251583407,12684.52484288847,10585.138950950044
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-23,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,DC2,18430.338392134465,22153.266747345628,10136.686115673956
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,DC2,71569.66160786554,24405.25460828215,39363.313884326046
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,DC4,19118.36296411729,14262.298771231497,11471.017778470372
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,DC4,17569.074032071556,12632.164229059448,10541.444419242933
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-07-30,Midwest,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,DC1,130000.0,58890.0,65000.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,DC2,18000.924100001954,21637.110768202347,9900.508255001076
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,DC4,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,DC2,71999.07589999805,24551.684881899335,39599.49174499893
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,DC3,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,DC4,19298.371803417016,14396.585365349094,11579.02308205021
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,DC1,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,DC2,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,DC3,95000.0,20805.0,61750.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,DC4,18122.451243850242,13030.042444328325,10873.470746310146
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,West,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,South,3PL overflow,0.0,0.0,0.0
+high,2 Optimized + 30k/wk at DC1 Phoenix,2016-08-06,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,DC2,41191.49649762121,49512.178790140686,22655.323073691667
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,DC2,78808.5035023788,26873.69969431117,43344.67692630834
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,DC4,7424.253857417527,5538.493377633475,4454.552314450516
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,DC4,12811.234090939557,9211.277311385542,7686.740454563734
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-21,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,DC2,42311.77634565189,50858.755167473566,23271.476990108542
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,DC2,77688.22365434811,26491.68426613271,42728.52300989146
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,DC4,10156.099304595045,7576.450081227904,6093.659582757027
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,DC4,14308.938639391417,10288.126881722428,8585.36318363485
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-05-28,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,DC2,43871.58065198918,52733.63994369099,24129.36935859405
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,DC2,76128.41934801082,25959.79099767169,41870.63064140596
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,DC4,13164.19790944185,9820.491640443619,7898.518745665109
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,DC4,16219.492848997834,11661.815358429441,9731.6957093987
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-04,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,DC2,45483.64558338103,54671.341991224,25016.00507085957
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,DC2,74516.35441661897,25410.07685606707,40983.994929140434
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,DC4,15664.841800962997,11685.971983518395,9398.905080577797
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,DC4,18100.867534678764,13014.523757434032,10860.520520807258
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-11,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,DC2,46948.10020645027,56431.61644815322,25821.45511354765
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,DC2,73051.89979354973,24910.69782960046,40178.54488645236
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,DC4,17306.286219560352,12910.489519792023,10383.771731736211
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,DC4,19498.645944037125,14019.526433762692,11699.187566422275
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-18,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,DC2,48113.74978224764,57832.727238261665,26462.562380236206
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,DC2,71886.25021775236,24513.211324253556,39537.4376197638
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,DC4,18092.22871047299,13496.80261801285,10855.337226283795
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,DC4,20117.662606860045,14464.599414332371,12070.597564116028
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-06-25,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,DC2,48882.36069132021,58756.597550966886,26885.29838022612
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,DC2,71117.63930867979,24251.11500425981,39114.701619773885
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,DC4,18302.54471233928,13653.698355405104,10981.526827403568
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,DC4,19930.2325690023,14329.837217112652,11958.139541401379
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-02,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,DC2,49225.025537897134,59168.48069655235,27073.764045843425
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,DC2,70774.97446210287,24134.266291577078,38926.23595415658
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,DC4,18322.14656878161,13668.32134031108,10993.287941268965
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,DC4,19178.492332624475,13789.335987156997,11507.095399574684
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-09,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,DC2,49186.67889115287,59122.38802716575,27052.67339013408
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,DC2,70813.32110884713,24147.342498116872,38947.32660986592
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,DC4,18446.54651037963,13761.123696743205,11067.927906227778
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,DC4,18274.280292795476,13139.207530519947,10964.568175677285
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-16,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,DC2,48874.15623178004,58746.73579059961,26880.785927479024
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,DC2,71125.84376821996,24253.912724963007,39119.21407252098
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,DC4,18756.59390537509,13992.419053409818,11253.956343225054
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,DC4,17641.898251583407,12684.52484288847,10585.138950950044
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-23,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,DC2,48430.338392134465,58213.266747345624,26636.686115673958
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,DC2,71569.66160786554,24405.25460828215,39363.313884326046
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,DC4,19118.36296411729,14262.298771231497,11471.017778470372
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,DC4,17569.074032071556,12632.164229059448,10541.444419242933
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-07-30,Midwest,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,DC1,100000.0,45300.0,50000.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,DC2,48000.924100001954,57697.11076820234,26400.508255001077
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,DC4,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,DC2,71999.07589999805,24551.684881899335,39599.49174499893
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,DC3,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,DC4,19298.371803417016,14396.585365349094,11579.02308205021
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,DC1,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,DC2,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,DC3,95000.0,20805.0,61750.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,DC4,18122.451243850242,13030.042444328325,10873.470746310146
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,West,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,South,3PL overflow,0.0,0.0,0.0
+high,3 Optimized + 30k/wk at DC2 Dallas,2016-08-06,Midwest,3PL overflow,0.0,0.0,0.0

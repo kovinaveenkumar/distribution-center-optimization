@@ -1,0 +1,5 @@
+dc,city,lat,lon,weekly_capacity,handling_cost_per_unit
+DC1,"Phoenix, AZ",33.45,-112.07,100000,0.5
+DC2,"Dallas, TX",32.78,-96.8,90000,0.55
+DC3,"Chicago, IL",41.88,-87.63,95000,0.65
+DC4,"Atlanta, GA",33.75,-84.39,80000,0.6

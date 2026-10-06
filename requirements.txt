@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy
+matplotlib
+scipy
+statsmodels
+prophet
+pulp>=2.8,<3      # 3.x/4.x removed LpVariable.dicts
+highspy           # HiGHS solver (bundled CBC in pulp 2.x is x86-only, fails on Apple Silicon)
+jupyter
+nbformat
